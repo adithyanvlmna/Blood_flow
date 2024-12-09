@@ -1,0 +1,1 @@
+enum LoginEnum {userNotFound,wrongpassword,noError}

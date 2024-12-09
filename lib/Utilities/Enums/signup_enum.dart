@@ -1,0 +1,1 @@
+enum SignupEnum {weakPassword,alreadyInUse,other,noEroor}
